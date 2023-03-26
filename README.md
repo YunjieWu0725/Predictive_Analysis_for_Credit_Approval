@@ -1,6 +1,8 @@
-# Credit Card Approval Prediction  
-## A Credit Card Dataset for Machine Learning!  
-### link
+# A Credit Card Dataset for Machine Learning!  
+### project link
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3730036709348933/1812028931206139/8022224519753368/latest.html
+
+### dataset-link
 https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction?datasetId=426827&sortBy=voteCount
 ### Context  
 Credit score cards are a common risk control method in the financial industry. It uses personal information and data submitted by credit card applicants to predict the probability of future defaults and credit card borrowings. The bank is able to decide whether to issue a credit card to the applicant. Credit scores can objectively quantify the magnitude of risk.  
